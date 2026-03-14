@@ -59,13 +59,7 @@
       "config": {}
     }
   ],
-  "gateways": [
-    {
-      "platform": "browser",
-      "name": "Browser Gateway",
-      "is_active": true
-    }
-  ],
+  "gateways": [],
   "routines": [],
   "triggers": [],
   "mcp_connections": [],
